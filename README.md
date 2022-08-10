@@ -4,4 +4,6 @@
 
 ### Project 2 - Pricing
 
-## Project 3 - Product Module
+### Project 3 - Product Module
+
+### Project 4 - Image Gallery
